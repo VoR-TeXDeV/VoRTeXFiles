@@ -1,0 +1,29 @@
+{
+  
+"result": true,
+  
+"plugins_": {
+  
+"AddedMe.lua":"[ملف امر منو ضافني](https://t.me/VoRTeX_DeV)",
+  
+"TagAll.lua":"[ملف تاك منفصل للاعضاء](https://t.me/VoRTeX_DeV)",
+  
+"TagAdmins.lua":"[ملف تاك منفصل للمشرفين](https://t.me/VoRTeX_DeV)",
+  
+"ReplyBot.lua":"[ملف الردود الخاص بالسورس](https://t.me/VoRTeX_DeV)",
+      
+"MuteNames.lua":"[ملف كتم الاسماء للمجموعات](https://t.me/VoRTeX_DeV)",
+  
+"ProNames.lua":"[ملف وضع التوحيد للمجموعات](https://t.me/VoRTeX_DeV)",
+  
+"ChangeName.lua":"[ملف التنبيه لتغيير الاسم](https://t.me/VoRTeX_DeV)",
+    
+"ChangeUser.lua":"[ملف التنبيه لتغيير المعرف](https://t.me/VoRTeX_DeV)",
+  
+"ChangePhoto.lua":"[ملف التنبيه لتغيير الصوره](https://t.me/VoRTeX_DeV)",
+  
+"AutoFile.lua":"[ملف النسخ الاحتياطيه التلقائيه](https://t.me/VoRTeX_DeV)",
+  
+}
+  
+}
